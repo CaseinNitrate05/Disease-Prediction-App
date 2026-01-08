@@ -6,7 +6,7 @@ An end-to-end Machine Learning application that predicts possible diseases based
 ## 🔗 Live Demo
 
 🚀 **Try the app here:**  
-👉 https://your-streamlit-app-url.streamlit.app
+👉 https://disease-prediction-app-caseinnitrate05.streamlit.app
 
 ---
 
