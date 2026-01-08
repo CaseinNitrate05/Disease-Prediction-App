@@ -3,6 +3,12 @@
 An end-to-end Machine Learning application that predicts possible diseases based on user-selected symptoms and provides medical descriptions, precautions, and severity analysis using a Streamlit web interface.
 
 ---
+## 🔗 Live Demo
+
+🚀 **Try the app here:**  
+👉 https://your-streamlit-app-url.streamlit.app
+
+---
 
 ## 📌 Project Overview
 
@@ -98,4 +104,5 @@ streamlit run app.py
   - model files (.pkl)
   - requirements.txt
 
----
+
+
