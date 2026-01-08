@@ -34,9 +34,15 @@ It is designed for **early-stage health awareness** and **educational purposes**
 ---
 
 ## 📂 Project Structure
-Disease-Prediction/
-- │── app.py
-- │── model.pkl
-- │── columns.pkl
-- │── label_encoder.pkl
-- │── requirements.t
+Disease-Prediction/<br>
+
+│── app.py <br>
+
+│── model.pkl <br>
+
+│── columns.pkl <br>
+
+│── label_encoder.pkl <br>
+
+│── requirements.t
+
